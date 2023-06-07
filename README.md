@@ -1,6 +1,6 @@
 # Indian-Premier-League-Analytics
 
-This project aims to perform analytics on cricket data to gain insights into team performance, player analysis, match results, and other related aspects of the game. It involves analyzing a cricket dataset with various columns such as match details, teams, players, venues, toss decisions, match results, and more.
+This project aims to perform analytics on cricket data to gain insights into team performance, player analysis, match results, and other related aspects of the game. It involves analyzing a cricket dataset with various columns such as match details, teams, players, venues, toss decisions, match results, and more. It also predicts the winning team when the necessary information such as oppenent team, venue, toss winning team and toss decision are provided.
 
 ### Dataset Source
 
